@@ -1,5 +1,3 @@
-using Pkg
-Pkg.activate("../../../")
 using ModelingToolkit
 using Symbolics
 using LinearAlgebra
